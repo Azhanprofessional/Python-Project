@@ -1,5 +1,1 @@
-# This is my basic python project.
-# I like programming languages
-# I have completed python (Advanced).
-# I have completed python (basic).
-
+# These is my basic to advanced python project.
